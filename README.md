@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @bumyyy
-The projects i've benn working on :
+- The projects i've been working on :
 - https://github.com/Shiyukine/CESI-A2-B1-L3
